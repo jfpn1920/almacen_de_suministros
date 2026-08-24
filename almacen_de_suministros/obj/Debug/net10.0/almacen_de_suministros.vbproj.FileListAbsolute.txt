@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\bin\Debug\net10.0\almacen_de_suministros.exe
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\bin\Debug\net10.0\almacen_de_suministros.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\bin\Debug\net10.0\almacen_de_suministros.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\bin\Debug\net10.0\almacen_de_suministros.dll
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\bin\Debug\net10.0\almacen_de_suministros.pdb
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\almacen_de_suministros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\almacen_de_suministros.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\almacen_de_suministros.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\almacen_de_suministros.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\almacen_de_suministros.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\almacen_de_suministros.dll
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\refint\almacen_de_suministros.dll
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\almacen_de_suministros.pdb
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\almacen_de_suministros.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\almacen_de_suministros\almacen_de_suministros\obj\Debug\net10.0\ref\almacen_de_suministros.dll
